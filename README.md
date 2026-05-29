@@ -1,4 +1,10 @@
-# 🎨 RitualArtDNA
+<p align="center">
+  <img src="./public/logo.png" width="140" />
+</p>
+
+<h1 align="center">
+  RitualArtDNA
+</h1>
 
 ### AI-Powered Copyright Infrastructure for Digital Creators
 
