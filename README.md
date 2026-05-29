@@ -37,3 +37,66 @@ https://ritualartdna.vercel.app/
 ## 🧠 Vision
 
 To build decentralized copyright infrastructure for the AI-native creator economy.
+
+---
+
+## 🏗 Architecture
+
+RitualArtDNA is structured into several modular layers:
+
+* Frontend Application Layer (React + Vite)
+* Wallet Identity Layer (MetaMask / Web3)
+* AI Verification Layer
+* Blockchain Verification Layer
+* NFT Ownership Certificate Layer
+* QR Public Verification Layer
+* Future Decentralized AI Infrastructure
+
+---
+
+## 🛠 Tech Stack
+
+* React
+* Vite
+* JavaScript
+* MetaMask
+* Web3 Wallet Infrastructure
+* QRCode.react
+* Vercel Deployment
+
+---
+
+## 🚀 Current Status
+
+Current MVP Features:
+
+* Artwork Upload
+* Wallet Connection
+* QR Verification
+* NFT Mint Simulation
+* Local Artwork Storage
+* Public Deployment
+
+Project Status:
+Experimental MVP Prototype
+
+---
+
+## 🔮 Future Plans
+
+* Ritual Testnet Integration
+* Smart Contract Deployment
+* Real NFT Minting
+* IPFS Storage
+* AI Similarity Detection
+* Plagiarism Scanner
+* Creator Profiles
+* Decentralized Verification Infrastructure
+
+---
+
+## ⚠ Disclaimer
+
+RitualArtDNA is an independent experimental project inspired by Ritual’s decentralized AI ecosystem.
+
+This project is not officially affiliated with Ritual.
